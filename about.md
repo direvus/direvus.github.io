@@ -1,18 +1,22 @@
 ---
 layout: page
-title: About
+title: About the author
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, I'm Brendan.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I'm a software developer by day, but by night ...
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Well, okay, yes, I'm a software developer by night too.  But in my spare time I
+also like to do woodworking with hand tools.
 
+After several years of trying to make do with a rickety old bench, in December
+2018 I finally worked up the gumption to go ahead and build a proper workbench
+of my own.
 
-[jekyll-organization]: https://github.com/jekyll
+This build follows the plans from Paul Sellers' [Woodworking Masterclasses](https://woodworkingmasterclasses.com/videos/workbench-introduction/) (free sign-in required).
+
+This is a relatively simple bench design in structural pine, so it's a good
+choice for my first attempt.  Well, that's the theory anyhow.
+
