@@ -4,3 +4,4 @@
 # Jekyll build products
 _site
 .sass-cache
+.jekyll-metadata
