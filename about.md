@@ -22,3 +22,5 @@ This build follows the plans from Paul Sellers' [Woodworking Masterclasses](http
 This is a relatively simple bench design in structural pine, so it's a good
 choice for my first attempt.  Well, that's the theory anyhow.
 
+{% include figure.html source="sketchup-model.png" alt="3D model" caption="My Sketchup model of the (intended) final product" %}
+
