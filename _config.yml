@@ -25,19 +25,3 @@ github_username:  direvus
 
 # Build settings
 markdown: kramdown
-remote_theme: minicomp/ed
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
