@@ -11,3 +11,8 @@ clamps.  Not a difficult job, but with 14 jaws in total to do, it certainly
 took a while.
 
 {% include figure.html source="clamps-prepared.jpg" alt="clamps prepared" caption="All seven clamps ready to clamp" %}
+
+I also completed planing the surfaces of all of the benchtop pieces, so the
+next step is the actual lamination.
+
+{% include figure.html source="benchtop-pieces-planed.jpg" alt="all benchtop pieces planed" caption="All nine benchtop pieces planed" %}
