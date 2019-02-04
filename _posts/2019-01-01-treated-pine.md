@@ -21,6 +21,8 @@ once the outer surface was planed away.  Those hopes went entirely unrealised.
 After planing back the surface, the blue crap did indeed permeate through the
 whole material, following along the growth lines of the tree.
 
+{% include figure.html source="treated-pine.jpg" alt="treated pine" caption="H2 treated pine" %}
+
 ## Lessons learned
 
 - Just because it's on the website doesn't mean the store has it.
