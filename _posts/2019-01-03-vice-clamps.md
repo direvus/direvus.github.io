@@ -15,6 +15,10 @@ The vice and the clamps themselves are impressive, very solid, well oiled,
 smooth action on everything.  The vice on its own feels like it weighs at least
 20kg.
 
+{% include figure.html source="vice-1.jpg" alt="vice" caption="The vice" %}
+
+{% include figure.html source="vice-2.jpg" alt="vice" caption="Vice rear view" %}
+
 I made a start on planing up the lamination surfaces on the 45×70 pieces for
 the benchtop.  I have nine pieces total, but I will only put eight of them in
 to the benchtop.  The plan is to prepare all nine pieces, and then pick the
