@@ -41,7 +41,7 @@ that's the benchtop pretty much done.  I **could** spend time trying to get the
 top more flat -- it still has a bit of a dip in the middle -- but for the time
 being I think I'll move on to other parts of the project.  There will always be
 time for more refinement later, and I'm sure that the benchtop surface will
-accumulate dings and scrapes as I go along.
+accumulate dings and scrapes as I go along.  The final piece weighs in at 21kg.
 
 {% include figure.html source="benchtop-second-end.jpg" alt="benchtop end planed" caption="The completed benchtop piece" %}
 

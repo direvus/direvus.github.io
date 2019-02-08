@@ -12,8 +12,7 @@ been shipped, and that the other two were on "back order".  That’s the kind of
 thing it would be handy to send a dude a separate email about.
 
 The vice and the clamps themselves are impressive, very solid, well oiled,
-smooth action on everything.  The vice on its own feels like it weighs at least
-20kg.
+smooth action on everything.  The vice on its own weighs about 13kg.
 
 {% include figure.html source="vice-1.jpg" alt="vice" caption="The vice" %}
 
