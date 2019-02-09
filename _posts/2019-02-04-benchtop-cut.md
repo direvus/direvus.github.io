@@ -4,9 +4,8 @@ title:  Cutting the benchtop to length
 date:   2019-02-04
 ---
 
-Today I completed two jobs:
-- Swept up the mountains of pine shavings produced so far.
-- Cut the benchtop to length!
+Today I completed two jobs: swept up the mountains of pine shavings produced so
+far, and cut the benchtop to length!
 
 I measured 1680mm from the end I'd already trimmed up, and cut a knife line
 around the piece.
