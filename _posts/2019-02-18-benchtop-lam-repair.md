@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cutting the benchtop to length
+title:  Repairing the failed lamination
 date:   2019-02-18
 ---
 
