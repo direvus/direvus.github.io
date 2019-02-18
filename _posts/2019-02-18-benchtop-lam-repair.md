@@ -16,7 +16,7 @@ ignored this problem, the harder it was going to be to recover from.
 First I cleared out the gap of debris with a putty knife, then ran glue along
 the edge of the gap, and forced the glue down into the gap with the putty
 knife.  Once I thought I had enough glue in there, I stood the benchtop up on
-end and clamped it.
+edge and clamped it.
 
 {% include figure.html source="benchtop-lam-repair.jpg" alt="benchtop lamination repair" caption="Lamination repair attempt" %}
 
