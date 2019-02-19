@@ -21,6 +21,16 @@ this time!
 
 {% include figure.html source="apron-glue-close.jpg" alt="apron glue up close" caption="Gluing up the apron" %}
 
+I put the edges together and rubbed them lengthwise to get the glue spread
+right across the joining surfaces, then evened up the ends and clamped.  There
+was a good amount of glue coming from the join, so I think that's a positive
+sign.
+
+I deliberately set up my T-bar clamps with one on top and one below on the far
+ends of the lamination, with the pipe clamps evenly spaced across the middle.
+I continued tightening up the clamps over the next few minutes and then scraped
+off the excess glue and left the assembly to set.
+
 {% include figure.html source="apron-glued.jpg" alt="apron lamination" caption="Lamination glued and clamped" %}
 
 ## Lessons learned
