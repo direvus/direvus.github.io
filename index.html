@@ -21,6 +21,8 @@ layout: default
                 <div class="entry-content">
                     {{ post.excerpt }}
                 </div>
+
+                <a class="post-more" href="{{ post.url | prepend: site.baseurl }}">Read the full post ...</a>
             </article>
         </li>
         {% endfor %}
