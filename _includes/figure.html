@@ -1,5 +1,7 @@
 <figure>
-    <img src="{{ site.baseurl }}/assets/{{ include.source }}" alt="{{ include.alt }}">
+    <a href="{{ site.baseurl }}/assets/{{ include.source }}">
+        <img src="{{ site.baseurl }}/assets/{{ include.source }}" alt="{{ include.alt }}">
+    </a>
 
     {% if include.caption %}
     <figcaption>
