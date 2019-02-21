@@ -15,10 +15,11 @@ was dumb.
 
 I also found that my T-bar clamps had some discolouration on the beam where it
 was in contact with the glue.  I'm not sure whether this is rust or some other
-deposit, but in any case I sanded the beams back a little bit to remove it.
+deposit.
 
-So, after scraping those pieces clean and giving the laminated apron a few
-passes with the plane to clear the join, today I set that aside and started
+So, after scraping those pieces clean, giving my clamps a quick sanding, I ran a few
+passes with the plane on the apron to clean up the join.  There is much more to
+be done to get the apron fully smooth, but today I set that aside and started
 work on preparing the second apron.
 
 Working on the first of the two pieces for this new apron, after doing a first
@@ -32,7 +33,9 @@ I did eventually get the twist out, then planed and squared off the edges, and
 finally flattened and untwisted the other face.  It was hard work but very
 satisfying.
 
-{% include figure.html source="apron-2-untwisting.jpg" alt="apron piece" caption="Flattening and untwisting the apron piece" %}
+{% include figure.html source="apron-2-untwisting.jpg" alt="apron piece" caption="Apron piece after flattening and untwisting" %}
+
+Next it will be on to the second piece and then laminating the two together.
 
 ## Lessons learned
 
