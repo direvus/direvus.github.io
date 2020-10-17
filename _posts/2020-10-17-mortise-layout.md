@@ -18,7 +18,7 @@ the mortises for the first leg.
 My Veritas mortise marking gauge got a workout for the first time -- very nice!
 
 In the background of the photo, you might be able to make out (one of) the
-reasons I haven't been doing any woodwork for a really long time.  She's 2 1/4
+reasons I haven't been doing any woodwork for a really long time.  She's 2 ¼
 and had a great time moving the bench dogs around in my workmate while I did my
 stuff.
 
