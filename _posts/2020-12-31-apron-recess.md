@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Cutting the apron leg recesses
+title:  Cutting the rear apron leg recesses
 date:   2020-12-31
 ---
 
@@ -26,12 +26,18 @@ make mistakes), and got to chopping and routing them out.
 
 {% include figure.html source="apron-recess1-fitted.jpg" alt="apron recess fitted" caption="The first apron recess, with the leg frame and wedge fitted" %}
 
-I made a start on the second recess, I've got the walls chopped down almost to
-depth, and will go in with the router after I split out the internal waste with
-a chisel.
+Then I made a start on the second recess, this picture is with the walls
+chopped down almost to depth.  After this, I split across the grain with a
+1-inch chisel to remove the bulk of the internal waste, and then refine with
+the chisel and router.
 
 {% include figure.html source="apron-recess2-walls.jpg" alt="apron recess 2" caption="The second apron recess, walls chopped" %}
 
+Once I got the second recess cut, I did a test fit of the rear apron to both
+leg frames.  Looking good!
+
+{% include figure.html source="rear-apron-fitted.jpg" alt="rear apron fitted" caption="The rear apron fitted to the leg frames" %}
+
 ## What's next
 
-Continuing to chop out the apron recesses until all four are done.
+Chopping out the recesses in the front apron.
