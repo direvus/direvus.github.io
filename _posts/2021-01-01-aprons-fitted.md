@@ -37,7 +37,7 @@ idea, as it wrecked the end of the screw thread on the bolt, and I could no
 longer thread the nut on.  After some messing around trying to get this to
 work, I eventually decided to try filing down a taper on to the end of the
 bolt, which I figured would remove the disrupted thread section and allow the
-nut to bite on to the remaining "good" thread.  This approach did work but I
+nut to bite on to the remaining "good" thread.  This approach did work but
 was kind of a pain in the butt.
 
 ## Lessons learned
