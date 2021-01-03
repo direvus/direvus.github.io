@@ -46,10 +46,10 @@ few screws and getting the bench back upright.
 {% include figure.html source="bench-with-vise.jpg" alt="bench with vise" caption="The complete bench with the vise" %}
 
 Now I just need to install the jaw liners in the vise to get it fully armed and
-operational.  I had original bought a piece of decking hardwood to be the vise
-liner, but on further consideration I decided that the grooves cut into the
-underside of the timber would look stupid and annoy me.  So I need to source
-some 19 x 90mm hardwood for this task.
+operational.  I had originally bought a piece of decking hardwood to be the
+vise liner, but on further consideration I decided that the grooves cut into
+the underside of the timber would look stupid and annoy me.  So I need to
+source some plain 19 x 90mm hardwood for this task.
 
 ## Lessons learned
 
@@ -60,4 +60,5 @@ knuckle by failing to heed this lesson today.
 ## What's next
 
 - Installing the vise liners.
+- Making and installing the wedge retainers.
 - Adding beading to the wellboard.
